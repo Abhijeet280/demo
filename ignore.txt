@@ -1,2 +1,3 @@
 This is just a dummy text file
 I added a line in this file 
+I write this line to see difference between working and last commit
