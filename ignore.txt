@@ -1,1 +1,2 @@
 This is just a dummy text file
+I added a line in this file 
